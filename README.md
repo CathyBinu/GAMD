@@ -14,4 +14,4 @@ graphneuralnet.py code contains all the functions required in the neural network
 
 The graphnntrain.py code trains the graphneuralnet using teh data generated above and the loss function vs epochs for training and testing is plotted. 
 
-Finally, the trained graph neural network is used to predict the forces acting between particles in the test data and the preducted forces are compared with the ground truth forces from the MDS. This is shown via a plot of Predicted Forces vs Ground Truth Forces. 
+Finally, in graphnntrain.py, the trained graph neural network is used to predict the forces acting between particles in the test data and the preducted forces are compared with the ground truth forces from the MDS. This is shown via a plot of Predicted Forces vs Ground Truth Forces. 
